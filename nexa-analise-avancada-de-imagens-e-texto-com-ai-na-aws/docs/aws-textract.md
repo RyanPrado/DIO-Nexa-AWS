@@ -13,4 +13,4 @@ AWS Textract é um modelo de inteligência voltado para a extração de texto, e
 
 ## 💻 Quer ver na pratica?
 De uma olhada no desafio que realizamos com o Textract automatizado com Python:
-[Transcrevendo uma Imagem em Texto com AWS Textract](./challenges/ocr_lista_escolar/README.md)
+[Transcrevendo uma Imagem em Texto com AWS Textract](../challenges/ocr_lista_escolar/README.md)

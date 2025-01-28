@@ -6,6 +6,8 @@
 
 ## 🤩 Features Adquiridas?
 * [AWS - Textract](.//docs/aws-textract.md)
+* [AWS - Rekognition](.//docs/aws-rekognition.md)
 ## 🔰 Desafios
 
 * [Transcrevendo uma Imagem em Texto com AWS Textract](./challenges/ocr_lista_escolar/README.md)
+* [Detectando Celebridades em Imagens](./challenges/rekognition_celebrities/README.md)
